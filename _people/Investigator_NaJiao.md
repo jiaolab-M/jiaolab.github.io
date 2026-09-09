@@ -4,7 +4,7 @@ title: Na Jiao
 position: Principle Investigator
 image: /people/NaJiao.png
 degree: Ph.D.
-email: najiao@fudan,edu.cn
+email: najiao@fudan.edu.cn
 webside: https://jiaonall.github.io/
 github: https://github.com/jiaonall
 google_scholar: https://scholar.google.com/citations?user=aX4qqkIAAAAJ&hl=zh-CN&oi=ao
