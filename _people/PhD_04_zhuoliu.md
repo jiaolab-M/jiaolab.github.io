@@ -20,7 +20,7 @@ p {
   <div class="col-lg-8">
     <p><b>Education:</b> PhD student</p>
     <p><b>Research areas:</b> Bioinformatics </p>
-    <p><b>Research focus:</b> Microbiome; Artificial intelligence </p>
+    <p><b>Research focus:</b> AIDD；Microbiome; Artificial intelligence </p>
   </div>
   <div class="col-lg-4">
     <div class="text-right">
