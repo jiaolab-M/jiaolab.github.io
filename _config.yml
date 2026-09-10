@@ -54,7 +54,7 @@ social-network-links:
   email: "najiao@fudan.edu.cn"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: Wu Dingfeng
-  github: jiaonall
+  # github: jiaonall
   twitter: Jiaona3
 #  patreon: yourname
 #  youtube: yourname
@@ -66,7 +66,7 @@ social-network-links:
 #  snapchat: yourname
 #  instagram: yourname
 #  spotify: yourname
-  telephone: 19946252076
+  # telephone: 19946252076
 #  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
